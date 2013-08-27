@@ -1,0 +1,12 @@
+/* 
+    Document   : cssOverrides
+    Created on : Aug 22, 2013, 3:06:45 PM
+    Author     : abid
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.ui-widget {
+   font-size: 70% !important;
+}
+
